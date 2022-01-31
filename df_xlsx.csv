@@ -1,0 +1,4 @@
+,xlsx_file,sheets
+0,Controle de Empenhos e NC 2022.xlsx,"['ControleGeral', 'SintéticoGeral', 'SintéticoNC', 'AnalíticoNC', 'ÍndiceCorreçãoNC']"
+1,Controle de NC 2022.xlsx,"['SintéticoNC', 'AnalíticoNC', 'ÍndiceCorreção']"
+2,Proponentes.xlsx,['Proponentes']
