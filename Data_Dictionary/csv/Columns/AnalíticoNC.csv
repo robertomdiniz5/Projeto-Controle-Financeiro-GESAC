@@ -1,0 +1,12 @@
+,columns,descricao
+0,proponente,
+1,nota_de_credito,
+2,programa,
+3,mes,
+4,valor_faturado,
+5,valor_economizado,
+6,valor_utilizado,
+7,saldo_no_periodo,
+8,relatorio,
+9,prop_pk1,
+10,prop_pk2,
