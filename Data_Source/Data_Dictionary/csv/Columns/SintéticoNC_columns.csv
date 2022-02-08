@@ -1,0 +1,12 @@
+,columns,descricao
+0,nc,
+1,proponente,
+2,programa,
+3,empenho,
+4,valor_inicial_nc,
+5,valor_utilizado,
+6,valor_economizado,
+7,saldo,
+8,consumo_da_nc_%,
+9,prop_pk1,
+10,prop_pk2,
