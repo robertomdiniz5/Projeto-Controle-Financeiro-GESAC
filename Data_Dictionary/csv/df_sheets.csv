@@ -2,7 +2,7 @@
 0,df_an,AnalíticoNC,Controle de NC 2022.xlsx,"['proponente', 'nota_de_credito', 'programa', 'mes', 'valor_faturado', 'valor_economizado', 'valor_utilizado', 'saldo_no_periodo', 'relatorio']"
 1,df_sn,SintéticoNC,Controle de NC 2022.xlsx,"['nc', 'proponente', 'programa', 'empenho', 'valor_inicial_nc', 'valor_utilizado', 'valor_economizado', 'saldo', 'consumo_da_nc_%']"
 2,df_ic,ÍndiceCorreção,Controle de NC 2022.xlsx,"['mes', 'indice_de_correcao', 'taxa_selic', 'observacao']"
-3,df_pr,Proponente,Proponentes.xlsx,"['prop_pk1', 'prop_1', 'prop_2', 'prop_3', 'prop_4', 'prop_pk2', 'uf', 'partido', 'orgao']"
+3,df_pr,Proponentes,Proponentes.xlsx,"['prop_pk1', 'prop_1', 'prop_2', 'prop_3', 'prop_4', 'prop_pk2', 'uf', 'partido', 'orgao']"
 4,df_cg,ControleGeral,Controle de Empenhos e NC 2022.xlsx,"['processo', 'proponente', 'contrato', 'nota_de_empenho', 'valor_empenhado', 'valor_pago', 'saldo_do_empenho', 'consumo_%', 'janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro', 'tipo']"
 5,df_em,Emendas_resumo,Emendas2021_resumo.xlsx,"['processo', 'emenda', 'valor', 'pontos_livre_(18_meses', 'pontos_gesac', 'pontos_indicados', 'pontos_analisados', 'pontos_aprovados', 'encaminhamento', 'data_aspar_informada', 'data_cadastrado', 'responsavel', 'pendencia_28/12']"
 6,df_estados,estados,estados.xlsx,"['cod', 'nome', 'sigla']"
