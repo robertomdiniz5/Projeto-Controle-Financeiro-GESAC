@@ -1,5 +1,21 @@
-# proj_controleFinanceiroGesac
 
+Project made by me to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools). To then pass the data to the PowerBI.
+
+Spreadsheets: Control of Parliamentary Amendments, Control of Credit Note and Commitment.
+
+Challenges:
+
+- Business Understanding: preparation of formal documents for understanding the data based on the initial stages of CRISP-DM management. Data dictionary creation.
+
+-Advanced data ingestion for reading excel files with different formats.
+
+-Create a primary key for the worksheets with the names of Deputies, and Senators to circumvent the inconsistency of the data entered by different professionals from the Ministry of Communications. To then do the modeling of Financial Control within PowerBI.
+
+-Create an algorithm that would make a comparison of entities to fill in the civil name of all Parliamentarians. This filling was done based on a control of all the different parliamentary names given in a dataset with the civil name of each one (Spreadsheet: Proponents), a bank created by me from an extraction of the Open Government Data.
+
+-Make recommendations, so that future data could be inserted atomically following database normalizations.
+
+----------------------------------------------------------------------------
 Projeto feito por mim para integrar planilhas de diferentes setores ligadas ao Controle Financeiro GESAC (WIFI-BRASIL que visa levar conexão às escolas públicas). Para depois serem passados para o PowerBI.
 
 Planilhas: Controle de Emendas Parlamentares, Controle de Nota de Crédito e Empenho.
