@@ -2,11 +2,21 @@
 
 ## General description
 
-* Project made by me to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools). To then pass the data to the PowerBI.
+
+* Project made by me to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools).
+  
+### Final gol: 
+
+* Pass the data to the PowerBI. To create a model that can integrate  different sectors linked to GESAC Financial Control.
+
+>[PowerBI](https://github.com/s33ding/financial_control_wifi-BR/blob/main/bi_financeiro.pbix)
 
 ### Spreadsheets: 
 
-* Control of Controle das emendas Parlamentares (Parliamentary Amendments), Control of Credit Note and Commitment.
+* Control of Parliamentary Amendments
+
+
+* Control of Credit Note and Commitment
 
 Challenges:
 
