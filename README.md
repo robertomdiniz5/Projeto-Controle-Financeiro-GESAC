@@ -1,7 +1,12 @@
+![Mardown Logo](https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/wi-fi-brasil/wi-fi-brasil-1/@@collective.cover.banner/c5b4edcd-e164-4632-ad98-d37765684777/@@images/90c578cf-47c6-4bec-9773-44afc3c4c2db.png)
 
-Project made by me to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools). To then pass the data to the PowerBI.
+## General description
 
-Spreadsheets: Control of Parliamentary Amendments, Control of Credit Note and Commitment.
+* Project made by me to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools). To then pass the data to the PowerBI.
+
+### Spreadsheets: 
+
+* Control of Controle das emendas Parlamentares (Parliamentary Amendments), Control of Credit Note and Commitment.
 
 Challenges:
 
