@@ -26,7 +26,7 @@
 * Business Understanding: preparation of formal documents for understanding the data based on the initial stages of CRISP-DM management. Data dictionary creation.
 
 * Advanced data ingestion for reading excel files with different formats.
->[controle_financeiro_gesac.ipynb](https://github.com/s33ding/financial_control_wifi-BR/blob/main/controle_financeiro_gesac.ipynb)
+>[financial_control_wifi-BR.py](https://github.com/s33ding/financial_control_wifi-BR/blob/main/financial_control_wifi-BR.py)
 
 * Create a primary key for the worksheets with the names of Deputies, and Senators to circumvent the inconsistency of the data entered by different professionals from the Ministry of Communications. To then do the modeling of Financial Control within PowerBI.
 
