@@ -1,6 +1,6 @@
 # proj_controleFinanceiroGesac
 
-Projeto feito por mim para integrar planilhas de diferentes setores ligadas ao Controle Financeiro GESAC (WIFI-BRASIL que visa levar conexão às escolas públicas). 
+Projeto feito por mim para integrar planilhas de diferentes setores ligadas ao Controle Financeiro GESAC (WIFI-BRASIL que visa levar conexão às escolas públicas). Para depois serem passados para o PowerBI.
 
 Planilhas: Controle de Emendas Parlamentares, Controle de Nota de Crédito e Empenho.
 
