@@ -25,6 +25,8 @@
 
 * Business Understanding: preparation of formal documents for understanding the data based on the initial stages of CRISP-DM management. Data dictionary creation.
 
+* Make recommendations, so that future data could be inserted atomically following database normalizations.
+
 * Advanced data ingestion for reading excel files with different formats.
 >[financial_control_wifi-BR.py](https://github.com/s33ding/financial_control_wifi-BR/blob/main/financial_control_wifi-BR.py)
 
@@ -37,4 +39,4 @@ __Public Data__
   * [SENADO](https://www12.senado.leg.br/dados-abertos)
 
 
-* Make recommendations, so that future data could be inserted atomically following database normalizations.
+
