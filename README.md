@@ -1,4 +1,4 @@
-![Mardown Logo](https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/wi-fi-brasil/wi-fi-brasil-1/@@collective.cover.banner/c5b4edcd-e164-4632-ad98-d37765684777/@@images/90c578cf-47c6-4bec-9773-44afc3c4c2db.png)
+![Mardown Logo](https://www.nexojornal.com.br/incoming/imagens/wifibrasil.png/alternates/LANDSCAPE_640/wifibrasil.png)
 
 ## General description
 
