@@ -3,7 +3,7 @@
 ## General description
 
 
-* Project made by me to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools).
+* Project made by me in my internship on Minstry of Communications of Brazil, to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools).
   
 ### Final gol: 
 
@@ -37,6 +37,3 @@
 __Public Data__
   * [CAMERA](https://dadosabertos.camara.leg.br/)
   * [SENADO](https://www12.senado.leg.br/dados-abertos)
-
-
-
