@@ -27,9 +27,9 @@
 
 * Advanced data ingestion for reading excel files with different formats.
 >[controle_financeiro_gesac.ipynb](https://github.com/s33ding/financial_control_wifi-BR/blob/main/controle_financeiro_gesac.ipynb)
->
--Create a primary key for the worksheets with the names of Deputies, and Senators to circumvent the inconsistency of the data entered by different professionals from the Ministry of Communications. To then do the modeling of Financial Control within PowerBI.
 
--Create an algorithm that would make a comparison of entities to fill in the civil name of all Parliamentarians. This filling was done based on a control of all the different parliamentary names given in a dataset with the civil name of each one (Spreadsheet: Proponents), a bank created by me from an extraction of the Open Government Data.
+* Create a primary key for the worksheets with the names of Deputies, and Senators to circumvent the inconsistency of the data entered by different professionals from the Ministry of Communications. To then do the modeling of Financial Control within PowerBI.
 
--Make recommendations, so that future data could be inserted atomically following database normalizations.
+* Create an algorithm that would make a comparison of entities to fill in the civil name of all Parliamentarians. This filling was done based on a control of all the different parliamentary names given in a dataset with the civil name of each one (Spreadsheet: [Proponentes.xlsx](https://github.com/s33ding/financial_control_wifi-BR/blob/main/Data_Source/Proponentes.xlsx)), a bank created by me from an extraction of the Open Government Data.
+
+* Make recommendations, so that future data could be inserted atomically following database normalizations.
