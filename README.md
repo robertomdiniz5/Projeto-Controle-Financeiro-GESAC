@@ -33,8 +33,8 @@
 * Create an algorithm that would make a comparison of entities to fill in the civil name of all Parliamentarians. This filling was done based on a control of all the different parliamentary names given in a dataset with the civil name of each one (Spreadsheet: [Proponentes.xlsx](https://github.com/s33ding/financial_control_wifi-BR/blob/main/Data_Source/Proponentes.xlsx)), a bank created by me from an extraction of the Open Government Data.
 
 * Dados Abertos
-  *[CAMERA](https://dadosabertos.camara.leg.br/)
-  *[SENADO](https://www12.senado.leg.br/dados-abertos)
+  * [CAMERA](https://dadosabertos.camara.leg.br/)
+  * [SENADO](https://www12.senado.leg.br/dados-abertos)
 
 
 * Make recommendations, so that future data could be inserted atomically following database normalizations.
