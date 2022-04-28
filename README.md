@@ -9,7 +9,8 @@
 
 * Pass the data to the PowerBI. To create a model that can integrate  different sectors linked to GESAC Financial Control.
 
->[PowerBI](https://github.com/s33ding/financial_control_wifi-BR/blob/main/bi_financeiro.pbix)
+>[PowerBI](https://github.com/s33ding/financial_control_wifi-BR/blob/main/bi_financial.pbix)
+![Mardown Logo](https://github.com/s33ding/financial_control_wifi-BR/blob/main/Data_Source/BI.PNG)
 
 ### Spreadsheets: 
 
