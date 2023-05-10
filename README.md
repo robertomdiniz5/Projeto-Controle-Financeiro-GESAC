@@ -3,8 +3,8 @@
 ## General description
 
 
-* Project made by me in my internship on Minstry of Communications of Brazil, to integrate spreadsheets from different sectors linked to GESAC Financial Control (WIFI-BRAZIL that aims to bring the connection to public schools).
-  
+*  This project was developed during an internship at the Ministry of Communications of Brazil with the goal of integrating spreadsheets from various sectors associated with GESAC Financial Control. The purpose of this integration was to support WIFI-BRAZIL, an initiative aimed at providing internet connectivity to public schools. 
+
 ### Final gol: 
 
 * Pass the data to the PowerBI. To create a model that can integrate  different sectors linked to GESAC Financial Control.
