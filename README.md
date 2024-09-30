@@ -1,5 +1,3 @@
-![Mardown Logo](https://www.nexojornal.com.br/incoming/imagens/wifibrasil.png/alternates/LANDSCAPE_640/wifibrasil.png)
-
 ## General description
 
 
